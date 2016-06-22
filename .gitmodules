@@ -1,0 +1,6 @@
+[submodule "neupackage"]
+	path = neupackage
+    url = https://github.com/NeuPhysics/neupackage.git
+[submodule "mma"]
+	path = mma
+	url = https://github.com/NeuPhysics/mma.git
